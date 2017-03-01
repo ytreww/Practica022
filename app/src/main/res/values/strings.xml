@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Practica02</string>
+    <string name="player_name">Jugador:</string>
+    <string name="cpu_name">Maquina:</string>
 </resources>
